@@ -1,0 +1,7 @@
+C:\Users\burak\source\repos\UcusRezervasyon-Final\UcusRezervasyon-Final\bin\Debug\UcusRezervasyon-Final.exe.config
+C:\Users\burak\source\repos\UcusRezervasyon-Final\UcusRezervasyon-Final\bin\Debug\UcusRezervasyon-Final.exe
+C:\Users\burak\source\repos\UcusRezervasyon-Final\UcusRezervasyon-Final\bin\Debug\UcusRezervasyon-Final.pdb
+C:\Users\burak\source\repos\UcusRezervasyon-Final\UcusRezervasyon-Final\obj\Debug\UcusRezervasyon-Final.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\UcusRezervasyon-Final\UcusRezervasyon-Final\obj\Debug\UcusRezervasyon-Final.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\UcusRezervasyon-Final\UcusRezervasyon-Final\obj\Debug\UcusRezervasyon-Final.exe
+C:\Users\burak\source\repos\UcusRezervasyon-Final\UcusRezervasyon-Final\obj\Debug\UcusRezervasyon-Final.pdb
